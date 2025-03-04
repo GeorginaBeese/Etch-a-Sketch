@@ -1,2 +1,2 @@
 # Etch-a-Sketch
-Etch-a-Sketch Odin Project Tasl
+Etch-a-Sketch Odin Project Task
